@@ -117,4 +117,13 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="ConverterDataFalha" xml:space="preserve">
+    <value>Verifique a data informada.</value>
+  </data>
+  <data name="GravarFalha" xml:space="preserve">
+    <value>Gravação não foi efetuada :(</value>
+  </data>
+  <data name="GravarSucesso" xml:space="preserve">
+    <value>Gravação efetuada com sucesso :)</value>
+  </data>
 </root>
